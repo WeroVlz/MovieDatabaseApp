@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOG IN</string>
+    <string name="logout">LOG OUT</string>
+    <string name="bar">Movie List</string>
+    <string name="out">Sign Out</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name:</string>
+    <string name="genre">Genre:</string>
+    <string name="year">Release Year:</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add Item</string>
+    <string name="add2">Add Movie</string>
+    <string name="edit2">Edit Movie</string>
+    <string name="delete2">Delete Movie</string>
+    <string name="empty"></string>
+    <string name="cancelar">Cancel</string>
+</resources>
